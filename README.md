@@ -28,9 +28,9 @@ This is Premium ThemeForest Portfolio Theme
 * Sticky navigation bar
  
 
- <hr>
 
  ### Installation 
+ <hr>
 
  - Upload .zip or -child.zip
    - Import .xml File
