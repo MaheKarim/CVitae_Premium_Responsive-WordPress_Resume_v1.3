@@ -2,5 +2,5 @@
 
 This is Premium ThemeForest Portfolio Theme 
 
-[Original Themeforest Link](https://themeforest.net/item/cvitae-premium-responsive-wordpress-resume/17510047)
+[Original Themeforest Link](https://themeforest.net/item/cvitae-premium-responsive-wordpress-resume/17510047)   | 44$ Worth
 
