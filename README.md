@@ -9,9 +9,9 @@ This is Premium ThemeForest Portfolio Theme
 
 <H1>100% VIRUS / Malware FREE!!! </H1> 
 
-###FEATURES
+### FEATURES
 
-*Free fully layered editable resume in PSD / AI / MsWord
-*Demo data importer
+* Free fully layered editable resume in PSD / AI / MsWord
+* Demo data importer
  
 
