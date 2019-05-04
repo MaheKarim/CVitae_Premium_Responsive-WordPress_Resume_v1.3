@@ -28,3 +28,12 @@ This is Premium ThemeForest Portfolio Theme
 * Sticky navigation bar
  
 
+ <hr>
+
+ ### Installation 
+
+ - Upload .zip or -child.zip
+   - Import .xml File
+
+ - Follow Documentation File Carefully 
+
